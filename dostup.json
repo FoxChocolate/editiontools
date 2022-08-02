@@ -1,8 +1,10 @@
-[6] = {
-    ['Benjamin_Nebrasko'] = '+',
-    ['Teejay_Sweezy'] = '+',
-    ['Quentin_Quimby'] = '+',
-},
-[12] = {
-    ['Toby_Caffrey'] = '+'
+dostup = {
+    [6] = {
+        ['Benjamin_Nebrasko'] = '+',
+        ['Teejay_Sweezy'] = '+',
+        ['Quentin_Quimby'] = '+',
+    },
+    [12] = {
+        ['Toby_Caffrey'] = '+'
+    }
 }
