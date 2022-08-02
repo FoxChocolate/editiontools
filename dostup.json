@@ -1,8 +1,8 @@
 [6] = {
     ["Benjamin_Nebrasko"] = '+',
-    ['Teejay_Sweezy'] = '+',
-    ['Quentin_Quimby'] = '+',
+    ["Teejay_Sweezy"] = '+',
+    ["Quentin_Quimby"] = '+',
 },
 [12] = {
-    ['Toby_Caffrey'] = '+'
+    ["Toby_Caffrey"] = '+'
 }
